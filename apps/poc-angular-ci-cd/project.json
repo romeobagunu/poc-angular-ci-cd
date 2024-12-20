@@ -22,7 +22,11 @@
             "input": "apps/poc-angular-ci-cd/public"
           }
         ],
-        "styles": ["apps/poc-angular-ci-cd/src/styles.scss"],
+        "styles": [
+          "node_modules/primeng/resources/primeng.css",
+          "node_modules/primeicons/primeicons.css",
+          "apps/poc-angular-ci-cd/src/styles.scss"
+        ],
         "scripts": []
       },
       "configurations": {
