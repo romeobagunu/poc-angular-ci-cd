@@ -2787,17 +2787,6 @@
     semver "^7.5.3"
     tslib "^2.3.0"
 
-"@nx/eslint@20.2.2":
-  version "20.2.2"
-  resolved "https://registry.yarnpkg.com/@nx/eslint/-/eslint-20.2.2.tgz#0dc88435c9c535ed62417e5a1a0408ea0f0bb2a6"
-  integrity sha512-GID3r539okSIdqqaLJxOttjbC8xaAbyrGJfSo/jyFLVASN4ZYuwFwWU94Vdn1NsOPHc2kiDa/qQj5mv0gbBfUw==
-  dependencies:
-    "@nx/devkit" "20.2.2"
-    "@nx/js" "20.2.2"
-    semver "^7.5.3"
-    tslib "^2.3.0"
-    typescript "~5.6.2"
-
 "@nx/eslint@20.3.0":
   version "20.3.0"
   resolved "https://registry.yarnpkg.com/@nx/eslint/-/eslint-20.3.0.tgz#135a3a140646db3439be37e9f8bd9d5b7c5a3bea"
