@@ -12,6 +12,10 @@ permissions:
   actions: read
   contents: read
 
+concurrency:
+  group: 'ci'
+  cancel-in-progress: false
+
 jobs:
   main:
     runs-on: ubuntu-latest
