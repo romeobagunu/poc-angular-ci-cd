@@ -2809,15 +2809,15 @@
     tslib "^2.3.0"
     typescript "~5.6.2"
 
-"@nx/jest@20.2.2":
-  version "20.2.2"
-  resolved "https://registry.yarnpkg.com/@nx/jest/-/jest-20.2.2.tgz#440eca9bf76c653f1dd4be5b670422d86e265cb3"
-  integrity sha512-czZprpiVAZQKixpib1Vphi3Aoh5qBr7KATgP7+P0ogDTrxd7sivCFDM8wZeilhdTfx85wsR0viOtLVm6D3RTLA==
+"@nx/jest@20.3.0":
+  version "20.3.0"
+  resolved "https://registry.yarnpkg.com/@nx/jest/-/jest-20.3.0.tgz#d15936df98a5e84eb0c9de7a379113e545ff5b7e"
+  integrity sha512-szkmlq8Zgx1J04yq34HfbC1jGrELVXcJTfo76SnFonL9crnbBsLS2mPrvCe431Zm9Xs1PYNvxZLeIbxf6bVXcQ==
   dependencies:
     "@jest/reporters" "^29.4.1"
     "@jest/test-result" "^29.4.1"
-    "@nx/devkit" "20.2.2"
-    "@nx/js" "20.2.2"
+    "@nx/devkit" "20.3.0"
+    "@nx/js" "20.3.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     chalk "^4.1.0"
     identity-obj-proxy "3.0.0"
@@ -2825,7 +2825,7 @@
     jest-resolve "^29.4.1"
     jest-util "^29.4.1"
     minimatch "9.0.3"
-    resolve.exports "1.1.0"
+    resolve.exports "2.0.3"
     semver "^7.5.3"
     tslib "^2.3.0"
     yargs-parser "21.1.1"
@@ -10417,11 +10417,6 @@ resolve-url-loader@5.0.0:
     loader-utils "^2.0.0"
     postcss "^8.2.14"
     source-map "0.6.1"
-
-resolve.exports@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/resolve.exports/-/resolve.exports-1.1.0.tgz#5ce842b94b05146c0e03076985d1d0e7e48c90c9"
-  integrity sha512-J1l+Zxxp4XK3LUDZ9m60LRJF/mAe4z6a4xyabPHk7pvK5t35dACV32iIjJDFeWZFfZlO29w6SZ67knR0tHzJtQ==
 
 resolve.exports@2.0.3, resolve.exports@^2.0.0:
   version "2.0.3"
