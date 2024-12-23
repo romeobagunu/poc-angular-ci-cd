@@ -2731,14 +2731,14 @@
     tslib "^2.3.0"
     webpack-merge "^5.8.0"
 
-"@nx/cypress@20.2.2":
-  version "20.2.2"
-  resolved "https://registry.yarnpkg.com/@nx/cypress/-/cypress-20.2.2.tgz#32b5dfb5ef73c9e51a7236a8422d087268ab9312"
-  integrity sha512-Y0V5b8N0J0Ofd8JQK21DPE+MB3SwqiarF0fKMB56P7HIuV9RucLqmwqTqnfVOpnFfKrMMs96Qy1vXsaAlHQLgg==
+"@nx/cypress@20.3.0":
+  version "20.3.0"
+  resolved "https://registry.yarnpkg.com/@nx/cypress/-/cypress-20.3.0.tgz#a797e2806b7a7aee7d239c19fe7c71b5bfe0ceba"
+  integrity sha512-Fi4HOhz8JYPLrnmFDxgVK1lNTBb6ZZC0EiibFxqCeFdPOQFJx36VyzMNIdfGHI50TCBUsSzK5eWD/8NHSBuFUg==
   dependencies:
-    "@nx/devkit" "20.2.2"
-    "@nx/eslint" "20.2.2"
-    "@nx/js" "20.2.2"
+    "@nx/devkit" "20.3.0"
+    "@nx/eslint" "20.3.0"
+    "@nx/js" "20.3.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     detect-port "^1.5.1"
     tslib "^2.3.0"
